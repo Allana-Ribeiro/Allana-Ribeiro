@@ -11,6 +11,7 @@
   <img align="center" alt="Lana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="rigth" alt="gif-eu" src="https://i.picasion.com/pic92/534bb08a80e8acca8f43fb2dfeac34b8.gif">
 </div>
 
   ##
